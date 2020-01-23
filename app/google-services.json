@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "971910147846",
+    "firebase_url": "https://derbus-5ef9b.firebaseio.com",
+    "project_id": "derbus-5ef9b",
+    "storage_bucket": "derbus-5ef9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971910147846:android:bdf0b8329765dee06a7887",
+        "android_client_info": {
+          "package_name": "com.amst.proyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971910147846-8uhtntc3e07hnvohnv2k4sv3i31a8hjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amst.proyecto",
+            "certificate_hash": "a1c56458cfdaed78be5c106fa83136b8cd527dde"
+          }
+        },
+        {
+          "client_id": "971910147846-ugbh2ig026b0osmit37ntuda019763ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjLnDp3Lm7yOOBuK-Kql7TR8oSUPyl6bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971910147846-ugbh2ig026b0osmit37ntuda019763ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
